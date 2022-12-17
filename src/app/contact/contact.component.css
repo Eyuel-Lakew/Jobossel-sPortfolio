@@ -1,0 +1,11 @@
+.main{
+    width: fit-content;
+    height: fit-content;
+    margin: auto;
+}
+.contactinfo{
+    margin:  auto;
+}
+div a {
+    float: left;
+}
